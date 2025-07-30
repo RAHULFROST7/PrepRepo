@@ -1,6 +1,6 @@
 ## **Week 1 Python Refresher Guide**
 
-### **Day 1: Advanced Python Core**
+### **Day 1: Advanced Python Core ✅**
 
 **Topics:**
 
@@ -9,7 +9,7 @@
 * Context Managers (`with`, `__enter__`, `__exit__`, `contextlib`)
 * Typing & Annotations (`typing`, `mypy`, `TypedDict`, `Protocol`)
 
-**Practice:**
+**Practice ✅:**
 
 * Build a `ResourceHandler` class using a context manager for file/database mocks.
 * Implement a decorator for execution timing.
@@ -21,8 +21,8 @@
 
 **Topics:**
 
-* Comprehensions (nested, dict, set, generator)
-* `lambda`, `map`, `filter`, `reduce`
+* Comprehensions (nested, dict, set, generator) ✅
+* `lambda`, `map`, `filter`, `reduce` ✅
 * `itertools` & `functools` (e.g., `partial`, `lru_cache`)
 
 **Practice:**
